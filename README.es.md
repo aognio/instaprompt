@@ -152,4 +152,6 @@ directorio de estado en un sandbox, así que nunca toca tu `~/.bashrc` real.
 
 ## Licencia
 
-MIT — ver [LICENSE](LICENSE).
+Licencia MIT - Copyright (c) 2026 Antonio Ognio — ver [LICENSE](LICENSE).
+
+Made with ❤️ from 🇵🇪. El Perú es clave 🔑.

@@ -152,4 +152,6 @@ state directory, so it never touches your real `~/.bashrc`.
 
 ## Licence
 
-MIT — see [LICENSE](LICENSE).
+MIT License - Copyright (c) 2026 Antonio Ognio — see [LICENSE](LICENSE).
+
+Made with ❤️ from 🇵🇪. El Perú es clave 🔑.
